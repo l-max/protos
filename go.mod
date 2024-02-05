@@ -1,4 +1,4 @@
-module protos
+module github.com/l-max/protos
 
 go 1.20
 
